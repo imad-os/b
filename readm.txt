@@ -697,3 +697,28 @@ After that, we can determine the actual coordinate system and sampling rate and 
 for motion studion , we need that type logique too , so in add edit i need a form to indecat , and add filter in the list&#x20;
 
 main gape too in add/esit  challenge when type change it should load new moves for selected type
+
+
+-remove the usage of data/*.json we are using database now
+
+-database looks missed up , whats up with id,payload ? payload having a json dict ? no this is database it should have fields , so check all database tables and alter them to have fields instead of payload field have all dictionary data, each dict key in its own field, and for all tables.
+
+then remove those data/*.json files.
+
+
+add signIn/signUp screen, to support multiUSers  and button to switch user , in users switch screen list all users and '+' button to add user
+
+in home add profile button, to show profile screen , containing user data : name birthday , gender , stats, and delete button att very bottom to delete the profile after confirmation message
+
+
+-this is bigg change : 
+the game should adabt to how many controller connected , 
+-if have only 1 controller:  it should avoid left hand actions and keep only right hand ones
+-when it have 2 : then use both.
+-when it have 3 : then use right kick too 
+-when it have 4 : then use all hands and legs actions
+so make sure there is fields in database indecating what organ used hand or leg and what side right or left
+
+
+
+-each avtion (punsh , hook ..) must have right and left.make sure db have this
