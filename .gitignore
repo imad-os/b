@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+data/profile.json
+data/session_history.json
+logs/

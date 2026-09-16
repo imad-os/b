@@ -1,0 +1,122 @@
+[
+  {
+    "id": "left_jab",
+    "label": "Left jab",
+    "key": "a",
+    "min_level": 1,
+    "frequency": 10,
+    "category": "Punch",
+    "hand": "LEFT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "right_cross",
+    "label": "Right cross",
+    "key": "b",
+    "min_level": 1,
+    "frequency": 10,
+    "category": "Punch",
+    "hand": "RIGHT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "left_hook",
+    "label": "Left hook",
+    "key": "c",
+    "min_level": 2,
+    "frequency": 7,
+    "category": "Punch",
+    "hand": "LEFT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "right_hook",
+    "label": "Right hook",
+    "key": "d",
+    "min_level": 2,
+    "frequency": 7,
+    "category": "Punch",
+    "hand": "RIGHT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "left_uppercut",
+    "label": "Left uppercut",
+    "key": "e",
+    "min_level": 3,
+    "frequency": 5,
+    "category": "Punch",
+    "hand": "LEFT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "right_uppercut",
+    "label": "Right uppercut",
+    "key": "f",
+    "min_level": 3,
+    "frequency": 5,
+    "category": "Punch",
+    "hand": "RIGHT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "slip_left",
+    "label": "Slip left",
+    "key": "g",
+    "min_level": 4,
+    "frequency": 4,
+    "category": "Defense",
+    "hand": "LEFT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "slip_right",
+    "label": "Slip right",
+    "key": "h",
+    "min_level": 4,
+    "frequency": 4,
+    "category": "Defense",
+    "hand": "RIGHT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "roll_left",
+    "label": "Roll left",
+    "key": "i",
+    "min_level": 5,
+    "frequency": 3,
+    "category": "Defense",
+    "hand": "LEFT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "roll_right",
+    "label": "Roll right",
+    "key": "j",
+    "min_level": 5,
+    "frequency": 3,
+    "category": "Defense",
+    "hand": "RIGHT",
+    "acceptance": 0.0
+  },
+  {
+    "id": "test_1",
+    "label": "test 1",
+    "key": "k",
+    "min_level": 5,
+    "frequency": 3,
+    "category": "Custom",
+    "hand": "LEFT",
+    "acceptance": 0.82
+  },
+  {
+    "id": "test2",
+    "label": "test2",
+    "key": "l",
+    "min_level": 5,
+    "frequency": 3,
+    "category": "Custom",
+    "hand": "LEFT",
+    "acceptance": 0.82
+  }
+]

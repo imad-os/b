@@ -1,0 +1,263 @@
+[
+  {
+    "id": "first_bell",
+    "title": "First Bell",
+    "subtitle": "Two-move rhythm builder",
+    "level": 1,
+    "rounds": 12,
+    "accent": [
+      255,
+      91,
+      83
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross"
+    ],
+    "move_weights": {
+      "left_jab": 50,
+      "right_cross": 50
+    }
+  },
+  {
+    "id": "jab_lab",
+    "title": "Jab Lab",
+    "subtitle": "Speed and clean form",
+    "level": 1,
+    "rounds": 18,
+    "accent": [
+      28,
+      191,
+      177
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross"
+    ],
+    "move_weights": {
+      "left_jab": 65,
+      "right_cross": 35
+    }
+  },
+  {
+    "id": "cross_current",
+    "title": "Cross Current",
+    "subtitle": "Alternating straight punches",
+    "level": 1,
+    "rounds": 20,
+    "accent": [
+      79,
+      122,
+      255
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross"
+    ],
+    "move_weights": {
+      "left_jab": 50,
+      "right_cross": 50
+    }
+  },
+  {
+    "id": "hook_theory",
+    "title": "Hook Theory",
+    "subtitle": "Introduce hooks with intent",
+    "level": 2,
+    "rounds": 20,
+    "accent": [
+      255,
+      181,
+      71
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross",
+      "left_hook",
+      "right_hook"
+    ],
+    "move_weights": {
+      "left_jab": 25,
+      "right_cross": 25,
+      "left_hook": 25,
+      "right_hook": 25
+    }
+  },
+  {
+    "id": "side_step",
+    "title": "Side Step",
+    "subtitle": "Hooks and directional reactions",
+    "level": 2,
+    "rounds": 24,
+    "accent": [
+      255,
+      91,
+      83
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross",
+      "left_hook",
+      "right_hook"
+    ],
+    "move_weights": {
+      "left_jab": 20,
+      "right_cross": 20,
+      "left_hook": 30,
+      "right_hook": 30
+    }
+  },
+  {
+    "id": "upper_line",
+    "title": "Upper Line",
+    "subtitle": "Uppercuts join the sequence",
+    "level": 3,
+    "rounds": 24,
+    "accent": [
+      28,
+      191,
+      177
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross",
+      "left_hook",
+      "right_hook",
+      "left_uppercut",
+      "right_uppercut"
+    ],
+    "move_weights": {}
+  },
+  {
+    "id": "power_phrase",
+    "title": "Power Phrase",
+    "subtitle": "Three-punch combinations",
+    "level": 3,
+    "rounds": 28,
+    "accent": [
+      79,
+      122,
+      255
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross",
+      "left_hook",
+      "right_hook",
+      "left_uppercut",
+      "right_uppercut"
+    ],
+    "move_weights": {}
+  },
+  {
+    "id": "slipstream",
+    "title": "Slipstream",
+    "subtitle": "Defense under pressure",
+    "level": 4,
+    "rounds": 26,
+    "accent": [
+      255,
+      181,
+      71
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross",
+      "left_hook",
+      "right_hook",
+      "slip_left",
+      "slip_right"
+    ],
+    "move_weights": {}
+  },
+  {
+    "id": "ring_iq",
+    "title": "Ring IQ",
+    "subtitle": "Full reaction vocabulary",
+    "level": 4,
+    "rounds": 32,
+    "accent": [
+      255,
+      91,
+      83
+    ],
+    "sport": "Box",
+    "move_ids": [],
+    "move_weights": {}
+  },
+  {
+    "id": "championship",
+    "title": "Championship Set",
+    "subtitle": "Endurance and precision",
+    "level": 5,
+    "rounds": 40,
+    "accent": [
+      28,
+      191,
+      177
+    ],
+    "sport": "Box",
+    "move_ids": [],
+    "move_weights": {}
+  },
+  {
+    "id": "training_1",
+    "title": "Boss level 1",
+    "subtitle": "Custom training set",
+    "level": 5,
+    "rounds": 50,
+    "accent": [
+      105,
+      145,
+      255
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross",
+      "slip_left",
+      "slip_right",
+      "roll_left",
+      "roll_right",
+      "test_1"
+    ],
+    "move_weights": {
+      "left_jab": 10,
+      "right_cross": 10,
+      "slip_left": 4,
+      "slip_right": 4,
+      "roll_left": 3,
+      "roll_right": 3,
+      "test_1": 3
+    }
+  },
+  {
+    "id": "training_2",
+    "title": "New training set",
+    "subtitle": "Custom training set",
+    "level": 1,
+    "rounds": 20,
+    "accent": [
+      105,
+      145,
+      255
+    ],
+    "sport": "Box",
+    "move_ids": [
+      "left_jab",
+      "right_cross"
+    ],
+    "move_weights": {
+      "left_jab": 10,
+      "right_cross": 10
+    }
+  }
+]

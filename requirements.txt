@@ -1,0 +1,7 @@
+pygame==2.5.2
+numpy==1.24.4
+# Optional at runtime; required to receive BLE Heart Rate broadcasts from Garmin.
+bleak>=0.22,<4
+# Required only when using Nintendo Joy-Con IMU input:
+pyjoycon==0.0.6
+hidapi==0.14.0
